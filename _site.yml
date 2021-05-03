@@ -7,5 +7,5 @@ navbar:
     - text: "Teaching"
       menu:
         - text: "SDM course"
-          href: https://bobmuscarella.github.io/SDM-Sapienza/
+          href: https://bobmuscarella.github.io/SDM-course/
 output_dir: "docs"
