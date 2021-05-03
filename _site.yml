@@ -9,8 +9,14 @@ navbar:
         - text: "SDM course"
         - text: "Syllabus"
           href: syllabus.html
-        - text: "Exercise 1"
-          # href: syllabus.html
-    - text: "Links"
-      href: Links.html
+    - text: "test"
+      href: https://damariszurell.github.io/
+        # - text: "Exercise 1"
+        #   href: excercise1.html
+        # - text: "Exercise 2"
+        #   href: excercise2.html
+        # - text: "Exercise 3"
+        #   href: excercise3.html
+    # - text: "Links"
+    #   href: Links.html
 output_dir: "docs"

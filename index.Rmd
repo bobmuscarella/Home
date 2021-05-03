@@ -21,6 +21,8 @@ output: html_document
 
 Welcome the the website for the Muscarella Research group. We study how local processes give rise to larger patterns, and how links between scales shape forest structure and diversity. We are based in the [Department of Plant Ecology and Evolution](https://www.ieg.uu.se/plant/) at Uppsala University in Sweden.
 
+See a [list of publications](https://scholar.google.com/citations?user=SuKDQfoAAAAJ&hl=en&oi=ao) on Google Scholar.
+
 </div>
 <div class="col-sm-6">
 
