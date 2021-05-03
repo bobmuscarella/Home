@@ -237,15 +237,24 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Bob Muscarella</a>
+      <a class="navbar-brand" href="index.html"></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">Home</a>
 </li>
-<li>
-  <a href="Journal.html">Journal</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    SDM course
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="syllabus.html">Syllabus</a>
+    </li>
+  </ul>
 </li>
 <li>
   <a href="Links.html">Links</a>
@@ -278,22 +287,12 @@ $(document).ready(function () {
 
 </style>
 <div class="row" style="padding-top: 30px;">
-<div id="bob-muscarella" class="section level1 col-sm-6">
-<h1><strong>Bob Muscarella</strong></h1>
-<p>This is a template example for lab journaling. Students in Matt Crump’s Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.</p>
-<div id="how-to-use" class="section level2">
-<h2>How to use</h2>
-<ol style="list-style-type: decimal">
-<li><p>fork the repo for this website and follow instructions on read me to get set up. <a href="https://github.com/CrumpLab/LabJournalWebsite">https://github.com/CrumpLab/LabJournalWebsite</a></p></li>
-<li><p>Blog/journal what you are doing in R, by editing the Journal.Rmd. See the <a href="https://crumplab.github.io/LabJournalWebsite/Journal.html">Journal page</a> for an example of what to do to get started learning R.</p></li>
-<li><p>See the <a href="https://crumplab.github.io/LabJournalWebsite/Links.html">links page</a> for lots of helpful links on learning R.</p></li>
-<li><p>Change everything to make it your own.</p></li>
-</ol>
+<div id="muscarella-research-group" class="section level1 col-sm-6">
+<h1><strong>Muscarella Research Group</strong></h1>
+<p>Welcome the the website for the Muscarella Research group. We study how local processes give rise to larger patterns, and how links between scales shape forest structure and diversity. We are based in the <a href="https://www.ieg.uu.se/plant/">Department of Plant Ecology and Evolution</a> at Uppsala University in Sweden.</p>
 </div>
-</div>
-<div id="crump-lab-human-cognition-and-performance" class="section level3 col-sm-6">
-<h3><a href="https://crumplab.github.io">Crump Lab: Human Cognition and Performance</a></h3>
-<p><a href = "https://crumplab.github.io"> <img src="images/logo.png" /> </a></p>
+<div class="col-sm-6">
+<p><a> <img src="images/logo.png" /> </a></p>
 </div>
 
 
