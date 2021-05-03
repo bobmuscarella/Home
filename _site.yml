@@ -4,10 +4,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "SDM course"
+    - text: "Teaching"
       menu:
+        - text: "SDM course"
         - text: "Syllabus"
           href: syllabus.html
+        - text: "Exercise 1"
+          # href: syllabus.html
     - text: "Links"
       href: Links.html
 output_dir: "docs"
