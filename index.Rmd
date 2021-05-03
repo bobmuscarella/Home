@@ -19,25 +19,12 @@ output: html_document
 
 # **Bob Muscarella**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
-
-## How to use
-
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
-
+Welcome the the website for the Muscarella Research group. We study how local processes give rise to larger patterns, and how links between scales shape forest structure and diversity. We are based in the [Department of Plant Ecology and Evolution](https://www.ieg.uu.se/plant/) at Uppsala University in Sweden.
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
-
-<a href = "https://crumplab.github.io">
+<a>
 ![](images/logo.png)
 </a>
 </div>
