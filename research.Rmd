@@ -1,0 +1,39 @@
+---
+title: "Bob Muscarella"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# Research
+
+**Publications**
+
+See Google Scholar for [a full list](https://scholar.google.com/citations?user=SuKDQfoAAAAJ&hl=en&oi=ao)
+
+
+**Projects**
+
+- Functional diversity, composition, and dynamics of trees in forests of Puerto Rico
+- Consequences of habitat loss for tropical trees
+- ...
+
+</div>
+<div class="col-sm-6">
+
+<a>
+![](images/logo.png)
+</a>
+</div>

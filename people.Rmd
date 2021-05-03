@@ -1,0 +1,74 @@
+---
+title: "Bob Muscarella"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# People
+
+<br/>
+
+**Postdocs**
+
+Emanuele Ziaco
+
+- Wood anatomy and life-history strategies of Puerto Rican trees
+
+<br/>
+
+**PhD students**
+
+Sam Farrar
+
+- Linking wood anatomy and hydraulic traits across climate gradients in Puerto Rico
+
+<br/>
+
+Monique Picon (*starting Fall 2021*)
+
+- Consequences of habitat loss for tropical trees
+
+<br/>
+
+**Research Assistant**
+
+Silvia Bibbo
+
+<br/>
+
+**MSc students**
+
+Roel Lammerant
+
+Paschalis Chatzopoulos
+
+Helene Hansen
+
+<br/>
+
+### Alumni
+
+- Kasia Ziemińska (postdoc 2020-2021)
+- ...
+
+
+</div>
+<div class="col-sm-6">
+
+<a>
+![](images/logo.png)
+</a>
+</div>

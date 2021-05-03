@@ -4,6 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "People"
+      href: people.html
     - text: "Teaching"
       menu:
         - text: "SDM course"
